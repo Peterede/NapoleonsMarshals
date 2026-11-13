@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+*.pid
+.env
+.env.*
+.DS_Store
+/freebuff-sites-build/
